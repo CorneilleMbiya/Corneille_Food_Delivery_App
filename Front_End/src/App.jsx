@@ -5,7 +5,10 @@ import Home from './pages/Home/Home'
 import Cart from './pages/Cart/Cart'
 import PlaceOrder from './pages/Place Order/PlaceOrder'
 import Footer from './components/Footer/Footer'
+import LoginPopup from './components/LoginPopup/LoginPopup'
 import { useState } from 'react';
+
+
 function App() {
 
   const [showLogin, setShowLogin] = useState(false)

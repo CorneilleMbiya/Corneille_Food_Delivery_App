@@ -3,6 +3,9 @@ import './Cart.css'
 
 
 function Cart() {
+
+  const {}
+
   return (
     <div>Cart</div>
   )
